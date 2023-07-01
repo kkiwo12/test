@@ -1,4 +1,4 @@
 Hello world!
 Added new lines.
 Add new fix.
-test
+another line
